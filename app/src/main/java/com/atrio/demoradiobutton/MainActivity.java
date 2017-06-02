@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void getIntent(int i) {
-        Log.i("hello",""+"This is Arpita message");
+        Log.i("hello",""+"This is Arpita messages");
 
     }
 
