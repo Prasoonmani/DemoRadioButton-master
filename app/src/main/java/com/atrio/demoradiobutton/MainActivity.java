@@ -36,7 +36,12 @@ public class MainActivity extends AppCompatActivity {
     void fetchdata(){
         Log.i("hello",""+"working together");
 
-        getIntent(1234567890)
+        getIntent(123567890);
+    }
+
+    private void getIntent(int i) {
+        Log.i("hello",""+"This is Arpita message");
+
     }
 
 }
